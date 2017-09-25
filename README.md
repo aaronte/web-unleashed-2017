@@ -8,3 +8,5 @@ Event Website: [Web Unleashed](http://fitc.ca/event/webu17/)
  
 * Monday - Semptember 25, 2017
     * [Designing For Users](https://github.com/aaronte/web-unleashed-2017/tree/master/designing-for-users)
+    * [Developing Desktop Apps with Electron & Ember.js](https://github.com/aaronte/web-unleashed-2017/tree/master/develop-electron-apps)
+
