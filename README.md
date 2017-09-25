@@ -12,3 +12,5 @@ My notes from FITC 2017: Web Unleashed
     * [Designing For Users](https://github.com/aaronte/web-unleashed-2017/tree/master/designing-for-users)
     * [Developing Desktop Apps with Electron & Ember.js](https://github.com/aaronte/web-unleashed-2017/tree/master/develop-electron-apps)
     * [From AMP to PWA: A Modern Web User Journey](https://github.com/aaronte/web-unleashed-2017/tree/master/amp-to-pwa)
+    * [An Introduction To The World of Testing for Front-End Developers](https://github.com/aaronte/web-unleashed-2017/tree/front-end-testing)
+    * 
