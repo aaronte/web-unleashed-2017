@@ -21,3 +21,4 @@ My notes from FITC 2017: Web Unleashed
     * [From Doodles to Dashboards, Data Flows, and Docs](https://github.com/aaronte/web-unleashed-2017/tree/master/doodles)
     * [Lessons of Team Leadership in Nine Innings](https://github.com/aaronte/web-unleashed-2017/tree/master/team-leadership)
     * [Awesome State Management for React and Other Virtual DOM Libraries](https://github.com/aaronte/web-unleashed-2017/tree/master/react-state-management) 
+    * [Predictable Web Apps with Angular and Redux](https://github.com/aaronte/web-unleashed-2017/tree/master/angular-redux)
