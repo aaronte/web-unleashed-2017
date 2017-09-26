@@ -20,3 +20,4 @@ My notes from FITC 2017: Web Unleashed
     * [Flexible UI Components for a Multi-Framework World](https://github.com/aaronte/web-unleashed-2017/tree/master/flexible-ui-components)
     * [From Doodles to Dashboards, Data Flows, and Docs](https://github.com/aaronte/web-unleashed-2017/tree/master/doodles)
     * [Lessons of Team Leadership in Nine Innings](https://github.com/aaronte/web-unleashed-2017/tree/master/team-leadership)
+    * [Awesome State Management for React and Other Virtual DOM Libraries](https://github.com/aaronte/web-unleashed-2017/tree/master/react-state-management) 
