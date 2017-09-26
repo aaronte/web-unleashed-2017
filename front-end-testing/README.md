@@ -2,6 +2,8 @@
 
 Speaker: [Haris Mahmood](https://twitter.com/harismahmood89)
 
+Slides: [Slideshare](https://www.slideshare.net/HarisMahmood14/fitc-web-unleashed-2017-introduction-to-the-world-of-testing-for-frontend-developers)
+
 `liniting`
 
 * linting tools enforce defined style rules
