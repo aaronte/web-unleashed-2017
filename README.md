@@ -19,3 +19,4 @@ My notes from FITC 2017: Web Unleashed
 * Tuesday - September 26, 2017
     * [Flexible UI Components for a Multi-Framework World](https://github.com/aaronte/web-unleashed-2017/tree/master/flexible-ui-components)
     * [From Doodles to Dashboards, Data Flows, and Docs](https://github.com/aaronte/web-unleashed-2017/tree/master/doodles)
+    * [Lessons of Team Leadership in Nine Innings](https://github.com/aaronte/web-unleashed-2017/tree/master/team-leadership)
